@@ -9,4 +9,4 @@ Product Overview Page
 
 Individual Laptop View
 
-![image1](https://github.com/chandnijp/laptop-store-nodejs/blob/master/img/capture1.jpg)
+![image1](https://github.com/chandnijp/laptop-store-nodejs/blob/master/img/capture2.jpg)
